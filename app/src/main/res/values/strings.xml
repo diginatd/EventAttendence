@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Event Attendance</string>
+    <string name="title_activity_event">EventActivity</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
